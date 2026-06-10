@@ -1,1 +1,1 @@
-# crypto-ai-scanner
+binance-killers-ai-simulator
